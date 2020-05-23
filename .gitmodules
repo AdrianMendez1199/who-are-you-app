@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:AdrianMendez1199/who-you-are-backend-service.git
+[submodule "db"]
+	path = db
+	url = git@github.com:AdrianMendez1199/who-are-you-db-module.git
